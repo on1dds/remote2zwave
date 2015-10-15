@@ -42,4 +42,4 @@ You can see the remote signal is received by the Arduino because of the onboard 
 ###Correct IP
 Replace the IP's the code with the IP's you need it to be.
 
-###Lay back and switch your lights with your remote control.
+###Lay back and switch your Z-Wave driven devices with your remote control.
