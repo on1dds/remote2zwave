@@ -36,6 +36,8 @@ For the setdim and setlight parameter 1 = Z-Wave device ID<br>
 parameter 2 = 
 - 1/0 for on/off in setlight
 - 0-100 for off-on in setdim
+<br>
+You can see the remote signal is received by the Arduino because of the onboard LED (pin 9) flashes when pushing a button on the remote.
 
 ###Correct IP
 Replace the IP's the code with the IP's you need it to be.
